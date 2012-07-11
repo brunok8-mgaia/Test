@@ -2,6 +2,7 @@
      <symbols>
           <Include href="Background.xml" loadImmediate="false" itemID="4ffd8a9b-00000011" lastModified="1342016155"/>
           <Include href="Square.xml" loadImmediate="false" itemID="4ffd8abc-00000016" lastModified="1342016188"/>
+          <Include href="Star.xml" loadImmediate="false" itemID="4ffd8f59-00000013" lastModified="1342017369"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Scene 1">
@@ -18,12 +19,20 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Square" selected="true" centerPoint3DX="50" centerPoint3DY="300">
+                                        <DOMSymbolInstance libraryItemName="Square" centerPoint3DX="50" centerPoint3DY="300">
                                              <matrix>
                                                   <Matrix tx="50" ty="300"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Star" selected="true" centerPoint3DX="379.95" centerPoint3DY="37.3">
+                                             <matrix>
+                                                  <Matrix tx="380" ty="37.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.05"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
                                    </elements>
