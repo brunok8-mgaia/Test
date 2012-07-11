@@ -1,6 +1,7 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="760" height="600" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" viewAngle3D="71.4571198868195" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
      <symbols>
           <Include href="Background.xml" loadImmediate="false" itemID="4ffd8a9b-00000011" lastModified="1342016155"/>
+          <Include href="Circle.xml" loadImmediate="false" itemID="4ffd8cee-00000013" lastModified="1342016751"/>
           <Include href="Square.xml" loadImmediate="false" itemID="4ffd8abc-00000016" lastModified="1342016188"/>
      </symbols>
      <timelines>
@@ -18,9 +19,17 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Square" selected="true" centerPoint3DX="50" centerPoint3DY="300">
+                                        <DOMSymbolInstance libraryItemName="Square" centerPoint3DX="50" centerPoint3DY="300">
                                              <matrix>
                                                   <Matrix tx="50" ty="300"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Circle" selected="true" centerPoint3DX="380" centerPoint3DY="300">
+                                             <matrix>
+                                                  <Matrix tx="380" ty="300"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point/>
