@@ -27,9 +27,17 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Circle" selected="true" centerPoint3DX="380" centerPoint3DY="300">
+                                        <DOMSymbolInstance libraryItemName="Circle" centerPoint3DX="380" centerPoint3DY="300">
                                              <matrix>
                                                   <Matrix tx="380" ty="300"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Square" selected="true" centerPoint3DX="710" centerPoint3DY="300">
+                                             <matrix>
+                                                  <Matrix tx="710" ty="300"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point/>
