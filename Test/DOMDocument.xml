@@ -18,9 +18,9 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Square" selected="true" centerPoint3DX="380" centerPoint3DY="300">
+                                        <DOMSymbolInstance libraryItemName="Square" selected="true" centerPoint3DX="50" centerPoint3DY="300">
                                              <matrix>
-                                                  <Matrix tx="380" ty="300"/>
+                                                  <Matrix tx="50" ty="300"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point/>
